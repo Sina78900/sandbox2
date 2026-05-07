@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-07 08:35 IR
+- 📥 [com.ninetozero.varaq_arm64-v8a_24.apks](https://github.com/Sina78900/sandbox2/raw/main/dl/com.ninetozero.varaq_arm64-v8a_24.apks) `53.2MB`
+
+---
+
+
 ### 📅 2026-05-06 22:22 IR
 - 📥 [Install-ورق - حکم آنلاین-GooglePlayGames.exe](https://github.com/Sina78900/sandbox2/raw/main/dl/Install-%D9%88%D8%B1%D9%82%20-%20%D8%AD%DA%A9%D9%85%20%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-GooglePlayGames.exe) `39.0MB`
 
